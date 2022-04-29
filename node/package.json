@@ -7,7 +7,7 @@
     "aes-js": "^3.1.2",
     "analytics-node": "^3.4.0-beta.1",
     "apn": "2.2.0",
-    "async": "3.0.1",
+    "async": "3.2.2",
     "atob": "^2.1.2",
     "aws-sdk": "2.478.0",
     "body-parser": "^1.19.0",
